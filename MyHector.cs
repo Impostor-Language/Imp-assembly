@@ -16,4 +16,4 @@
         BrawlPlayer.exe
      ("player.assembly")
            MyHector == game"
-          BrawlPlayer:' ==MyBrawl
+          BrawlPlayer: ==MyBrawl
