@@ -15,5 +15,5 @@
            MyBrawlGame.host
         BrawlPlayer.exe
      ("player.assembly")
-           MyHector == game"
-          BrawlPlayer
+           MyHector == "game"
+          
