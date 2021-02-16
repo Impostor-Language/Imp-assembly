@@ -11,7 +11,7 @@
  <index>
       BrawlStarsPlayer.server
        PlayerController."
-     ("Assembly.server")
+     ("Assembly.server
            MyBrawlGame.host
         BrawlPlayer.exe
      ("player.assembly")
